@@ -6,7 +6,7 @@ This is an example program that creates UBT, iteratively inserts elements to it 
 ## Clone the repository
 First step is to clone this repository with following command:
 
-    git clone https://github.com/xlisci02/perun-showcase-ubt
+    git clone https://github.com/xlisci02/testing-repo
 	cd perun-showcase-ubt
 
 ## Build and run for example with seed and mutation file
